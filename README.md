@@ -1,0 +1,2 @@
+# proge
+proge kõik
